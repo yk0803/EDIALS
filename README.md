@@ -8,7 +8,7 @@ Facial image anonymization is essential to enable privacy-preserving image data 
 We have used the MTF data set which contains 5246 images with a distinct distribution of celebrities' image faces that emerged across different labels.
 Get the Dataset The MTF data set can be accessed through the following link
 
-url: https://sobigdata.d4science.org/catalogue-sobigdata?path=/dataset/multi-task_faces_mtf_dataset
+url: https://ieee-dataport.org/documents/multi-task-faces-mtf-dataset
 
 # To Execute the code please follow these steps
 
